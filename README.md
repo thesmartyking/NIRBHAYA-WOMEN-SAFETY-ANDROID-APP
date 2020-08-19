@@ -1,0 +1,2 @@
+# NIRBHAYA-WOMEN-SAFETY-ANROID-APP
+An Application that measure the safety of women in increasing urgency in the world. Introducing a application that helps women to be safe from vulnerabilities from danger, this application automatically send emergency message with GPS Location to emergent person such as police, family &amp; friends by just clicking on power buttons 5 times will send emergency message containing GPS location to the pre-selected list of contacts.
