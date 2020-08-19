@@ -7,7 +7,7 @@ To Download this Signed Apk for the Android Device > 6.0 :- [**Download App From
 
 ## Special Features
 
-- User Interferance Design
+- User Interface Design
 - Easy to use
 - Specific Emergent Data (Limit-3)
 - Use Of Services
