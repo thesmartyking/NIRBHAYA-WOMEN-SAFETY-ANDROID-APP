@@ -33,3 +33,20 @@ To Download this Signed Apk for the Android Device > 6.0 :- [**Download App From
 
 1. [**Kenil Doshi**](https://github.com/thesmartyking)
 2. [**Nemish Zalavadiya**](https://github.com/nemishzalavadiya)
+
+---
+
+**Contact to get this Application or need to source code**
+
+[**Kenil Doshi**](https://github.com/thesmartyking)
+ <!--•--> 
+<a href=mailto:doshikenil623@gmail.com> <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail-dot-ru.svg"  width="22px"></img></a>
+<a href=https://www.facebook.com/kenildoshi19> <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"  width="22px"></img></a>
+<a href=https://www.instagram.com/the_smarty_king> <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"  width="22px"></img></a>
+<a href=https://www.linkedin.com/in/kenil-doshi-98224617b> <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  width="22px"></img></a>
+<a href=https://twitter.com/kdsmarty19> <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"  width="22px"></img></a>
+<a href=https://github.com/thesmartyking> <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"  width="22px"></img></a>
+<a href=https://thesmartyking.github.io> <img align="left" src="https://visualpharm.com/assets/78/Website-595b40b75ba036ed117d5c7f.svg"  width="22px"></img></a>
+
+
+
