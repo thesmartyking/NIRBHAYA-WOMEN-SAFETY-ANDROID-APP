@@ -36,6 +36,8 @@ To Download this Signed Apk for the Android Device > 6.0 :- [**Download App From
 
 ---
 
+![Watchers](https://img.shields.io/github/watchers/thesmartyking/NIRBHAYA-WOMEN-SAFETY-ANDROID-APP?style=for-the-badge)
+
 **Contact to get this Application or need source code**
 
 [**Kenil Doshi**](https://github.com/thesmartyking)
