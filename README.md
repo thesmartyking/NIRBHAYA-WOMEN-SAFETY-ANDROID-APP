@@ -36,8 +36,21 @@ To Download this Signed Apk for the Android Device > 6.0 :- [**Download App From
 <!--2. [**Nemish Zalavadiya**](https://github.com/nemishzalavadiya)-->
 
 ---
+## :iphone: Salient Features
 
-![Watchers](https://img.shields.io/github/watchers/thesmartyking/NIRBHAYA-WOMEN-SAFETY-ANDROID-APP?style=for-the-badge)
+#### :telephone_receiver: Trigger Button -
+Press the volume up/down button for 5 Times, this will send a message along with the location and a call to the 1st registered mobile number and rest of contact number will recieve text message from the contact number saved in list. Contact numbers can saved in helpline numbers like Women in distress, Domestic abuse, Police, student/child helpline, Ambulance but MAX Limit is only 3 to save number in contact list, so it should be kept according to safety priority.
+
+---
+## :calling: Instructions to How to use App
+#### Step-1 :
+Add your family & friends mobile number to contact list (Max 3 Only).
+#### Step-2 :
+When in emergency, hold the volume up/down button for 5 Times. A message will be sent along with the live location and the family member with the first preference will receive a call and other will recieve text message.
+
+---
+
+<!--![Watchers](https://img.shields.io/github/watchers/thesmartyking/NIRBHAYA-WOMEN-SAFETY-ANDROID-APP?style=for-the-badge)-->
 
 **Contact to get this Application or need source code**
 
