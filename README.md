@@ -31,7 +31,8 @@ To Download this Signed Apk for the Android Device > 6.0 :- [**Download App From
 
 **Creators of Application**
 
-<!--1. -->[**Kenil Doshi**](https://github.com/thesmartyking)
+<!--1. -->
+[**Kenil Doshi**](https://github.com/thesmartyking)
 <!--2. [**Nemish Zalavadiya**](https://github.com/nemishzalavadiya)-->
 
 ---
