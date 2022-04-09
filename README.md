@@ -5,6 +5,8 @@ An Application that measure the safety of women in increasing urgency in the wor
 
 To Download this Signed Apk for the Android Device > 6.0 :- [**Download App From Here !**](https://github.com/thesmartyking/NIRBHAYA-WOMEN-SAFETY-ANDROID-APP/raw/master/Nirbhaya-WMS%20App.apk)
 
+Application Without Developer Options -> [**Download App From Here !**](https://github.com/thesmartyking/NIRBHAYA-WOMEN-SAFETY-ANDROID-APP/raw/master/Nirbhaya-WMS%20App-Without-Dev-Details-v2.apk)
+
 ---
 
 ## Special Features
